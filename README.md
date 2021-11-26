@@ -4,10 +4,15 @@
 - Create __.env__ file and set database configurations like this:
 
 DB_CONNECTION=mysql
+
 DB_HOST=mysql
+
 DB_PORT=3306
+
 DB_DATABASE=example
+
 DB_USERNAME=sail
+
 DB_PASSWORD=password
 
 - Run __composer update__ and  __npm run dev__
